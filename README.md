@@ -33,7 +33,7 @@ Enable users to purchase raffle tickets using a Stripe Checkout flow and receive
 
 ## 🚀 Live Demo
 
-[🔗 Click here to view live on Netlify](https://your-netlify-site.netlify.app)
+[🔗 Click here to view live on Netlify](https://amazing-platypus-186485.netlify.app)
 
 ## 📁 Files Included
 
