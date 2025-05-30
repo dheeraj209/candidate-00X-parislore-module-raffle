@@ -40,7 +40,7 @@ Enable users to purchase raffle tickets using a Stripe Checkout flow and receive
 - `index.html` – Demo page with the widget
 - `widget.js` – Self-contained JS for Stripe integration
 - `style.css` – Optional style sheet (if separated)
-  
+- `server.js` - Backend logic (respond to API calls) 
 ## 📦 Mock API Behavior
 
 ### Create Checkout Session:
